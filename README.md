@@ -1,4 +1,5 @@
-![image](https://github.com/LimiaSadinaSathi/Prison_Management_System/assets/77088710/6acb7785-80fb-4b91-8485-3257f747602e)# Prison_Management_System
+#Prison_Management_System
+
 Entity Relationship (ER) Diagram:
 ![image](https://github.com/LimiaSadinaSathi/Prison_Management_System/assets/77088710/c2b97115-9b89-483e-aaa8-1a86e6834b00)
 
